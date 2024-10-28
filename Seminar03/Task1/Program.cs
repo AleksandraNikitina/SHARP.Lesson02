@@ -6,9 +6,6 @@
 // int[] array2 = new int[5] {1, 3, 4, 19, 3};
 // int[] array3 = new int[] {1, 3, 4, 19, 3};
 
-using System.Reflection.Emit;
-using Internal;
-
 int[] array = { 8, 3, 8, 19, 9 };
 int num = 8;
 
